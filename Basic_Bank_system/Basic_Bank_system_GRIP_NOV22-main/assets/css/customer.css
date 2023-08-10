@@ -1,0 +1,51 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url(/BankingSystem-main/1526048.jpg);
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #ecebea!important;
+}
+
+.navbar-brand{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.5rem;
+    color: #313233!important;
+}
+
+.nav-link{
+    color: #5f6368!important;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(189, 192, 196)!important;
+    color: rgb(102, 90, 83)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(159, 162, 190)!important;
+}
+
+h2{
+    color: aliceblue;
+}
+
+h4{
+    color: aqua;
+}
